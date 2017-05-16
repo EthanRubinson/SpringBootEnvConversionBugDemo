@@ -1,6 +1,6 @@
 # Spring Boot Environment Conversion Bug Demo
 
-Demonstrates the Spring Boot environment conversion bug
+Demonstrates the Spring Boot environment conversion bug: https://github.com/spring-projects/spring-boot/issues/9246
 
 ## How to Reproduce
 
